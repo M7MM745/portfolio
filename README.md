@@ -1,5 +1,8 @@
 # 📁 موقعي الشخصي — نسخة عصرية (Portfolio v4)
 
+🔗 **الموقع المنشور:** https://m7mm745.github.io/portfolio/
+📦 **المستودع:** https://github.com/M7MM745/portfolio
+
 موقع شخصي متجاوب بالكامل، ثنائي اللغة (عربي RTL / إنجليزي LTR)، bootstrap-free يعمل مباشرة بفتح ملف `index.html` — لا يحتاج أي خطوة بناء (No Build Step).
 
 ## 🚀 التشغيل
