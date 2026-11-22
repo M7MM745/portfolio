@@ -1,7 +1,10 @@
 # 📁 موقعي الشخصي — نسخة عصرية (Portfolio v4)
 
-🔗 **الموقع المنشور:** https://m7mm745.github.io/portfolio/
+🔗 **الموقع على Cloudflare:** https://m7mm745-portfolio.mhamd77deep.workers.dev/
+🔗 **نسخة GitHub Pages:** https://m7mm745.github.io/portfolio/
 📦 **المستودع:** https://github.com/M7MM745/portfolio
+
+> للنشر على Cloudflare لاحقًا: نفّذ `npx wrangler deploy` من داخل هذا المجلد بعد تسجيل الدخول بـ `npx wrangler login`.
 
 موقع شخصي متجاوب بالكامل، ثنائي اللغة (عربي RTL / إنجليزي LTR)، bootstrap-free يعمل مباشرة بفتح ملف `index.html` — لا يحتاج أي خطوة بناء (No Build Step).
 
