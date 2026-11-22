@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-label="Abstract dark e-commerce storefront mockup">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b0f19"/><stop offset="1" stop-color="#0d1b25"/></linearGradient>
+    <linearGradient id="em" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#10b981"/><stop offset="1" stop-color="#38bdf8"/></linearGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#ffffff" stop-opacity=".09"/><stop offset="1" stop-color="#ffffff" stop-opacity=".025"/></linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#94a3b8" stroke-opacity=".06"/></pattern>
+  </defs>
+  <rect width="800" height="450" fill="url(#bg)"/><rect width="800" height="450" fill="url(#grid)"/>
+  <circle cx="730" cy="60" r="190" fill="#38bdf8" opacity=".07"/>
+  <!-- header -->
+  <rect x="40" y="32" width="720" height="54" rx="16" fill="url(#card)" stroke="#ffffff" stroke-opacity=".1"/>
+  <circle cx="68" cy="59" r="11" fill="url(#em)"/>
+  <g fill="#ffffff" fill-opacity=".18"><rect x="92" y="54" width="72" height="9" rx="4.5"/><rect x="188" y="54" width="48" height="9" rx="4.5"/><rect x="260" y="54" width="58" height="9" rx="4.5"/><rect x="342" y="54" width="44" height="9" rx="4.5"/></g>
+  <rect x="606" y="46" width="92" height="26" rx="13" fill="#ffffff" fill-opacity=".07"/>
+  <circle cx="624" cy="59" r="5" fill="#10b981"/><rect x="636" y="55" width="46" height="8" rx="4" fill="#ffffff" fill-opacity=".28"/>
+  <rect x="712" y="46" width="30" height="26" rx="9" fill="url(#em)" fill-opacity=".85"/>
+  <!-- hero banner -->
+  <rect x="40" y="104" width="720" height="112" rx="18" fill="url(#card)" stroke="#ffffff" stroke-opacity=".08"/>
+  <rect x="64" y="130" width="180" height="12" rx="6" fill="#ffffff" fill-opacity=".28"/>
+  <rect x="64" y="156" width="256" height="9" rx="4.5" fill="#ffffff" fill-opacity=".14"/>
+  <rect x="64" y="174" width="200" height="9" rx="4.5" fill="#ffffff" fill-opacity=".1"/>
+  <rect x="64" y="188" width="104" height="20" rx="10" fill="url(#em)" fill-opacity=".9"/>
+  <g opacity=".9"><circle cx="640" cy="160" r="36" fill="#10b981" fill-opacity=".16"/><path d="M616 172c18-30 36-34 56-18 12 10 22 10 34-2" fill="none" stroke="url(#em)" stroke-width="3" stroke-linecap="round"/><circle cx="676" cy="142" r="6" fill="#38bdf8"/></g>
+  <!-- product cards -->
+  <g>
+    <rect x="40" y="234" width="228" height="176" rx="16" fill="url(#card)" stroke="#ffffff" stroke-opacity=".09"/>
+    <rect x="56" y="250" width="196" height="94" rx="12" fill="#0b1320"/>
+    <circle cx="154" cy="297" r="30" fill="#10b981" fill-opacity=".18"/><path d="M138 305c6-20 26-24 36-8 6 10 12 10 18 4" fill="none" stroke="#34d399" stroke-width="3" stroke-linecap="round"/>
+    <rect x="56" y="358" width="120" height="9" rx="4.5" fill="#ffffff" fill-opacity=".25"/><rect x="56" y="376" width="62" height="9" rx="4.5" fill="url(#em)" fill-opacity=".8"/><circle cx="232" cy="376" r="14" fill="#ffffff" fill-opacity=".1"/>
+  </g>
+  <g>
+    <rect x="286" y="234" width="228" height="176" rx="16" fill="url(#card)" stroke="#ffffff" stroke-opacity=".09"/>
+    <rect x="302" y="250" width="196" height="94" rx="12" fill="#0b1320"/>
+    <rect x="350" y="274" width="100" height="48" rx="10" fill="#38bdf8" fill-opacity=".15" stroke="#38bdf8" stroke-opacity=".3"/><circle cx="400" cy="298" r="15" fill="none" stroke="#7dd3fc" stroke-width="3"/>
+    <rect x="302" y="358" width="104" height="9" rx="4.5" fill="#ffffff" fill-opacity=".25"/><rect x="302" y="376" width="74" height="9" rx="4.5" fill="url(#em)" fill-opacity=".8"/><circle cx="478" cy="376" r="14" fill="#ffffff" fill-opacity=".1"/>
+  </g>
+  <g>
+    <rect x="532" y="234" width="228" height="176" rx="16" fill="url(#card)" stroke="#ffffff" stroke-opacity=".09"/>
+    <rect x="548" y="250" width="196" height="94" rx="12" fill="#0b1320"/>
+    <g fill="#a78bfa" fill-opacity=".3"><rect x="596" y="278" width="26" height="40" rx="5"/><rect x="630" y="268" width="26" height="50" rx="5"/><rect x="664" y="286" width="26" height="32" rx="5"/></g>
+    <rect x="548" y="358" width="92" height="9" rx="4.5" fill="#ffffff" fill-opacity=".25"/><rect x="548" y="376" width="58" height="9" rx="4.5" fill="url(#em)" fill-opacity=".8"/><circle cx="724" cy="376" r="14" fill="#ffffff" fill-opacity=".1"/>
+  </g>
+</svg>
